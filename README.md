@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 배대성입니다!
 
 <!--
 **baejjang2/baejjang2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
